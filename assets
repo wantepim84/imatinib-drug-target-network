@@ -1,0 +1,5 @@
+fig.write_image("assets/ABL1.png")
+fig.write_image("assets/KIT.png")
+fig.write_image("assets/PDGFRB.png")
+fig.write_image("assets/DDR1.png")
+fig.write_image("assets/CSF1R.png")
